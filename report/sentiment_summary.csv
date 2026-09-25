@@ -1,0 +1,4 @@
+Sentiment,Posts,Avg_Likes,Avg_Comments,Avg_Shares,Avg_Views,Avg_Engagement,Avg_Engagement_Rate
+Negative,750,7161.85,331.62,817.76,105649.56,8311.22,11.87
+Neutral,1747,7315.31,333.08,852.35,107405.7,8500.74,10.65
+Positive,2503,7803.82,347.14,828.52,115048.77,8979.48,12.9
